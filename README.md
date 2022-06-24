@@ -8,3 +8,8 @@ The project began as a examination of Covid-19 tweets in relation of changing se
 The application features several different screens. Each screen features a help icon for additional instructions as needed. The home screen allows one to navigate to the scraping page, or the saved data page. The scraping page allows the user to fill in several key parameters such as the keywords to query twitter for, the date range, the number of interactions, etc. The tweets scraped are automatically stored in the data folder and accessible on the saved data page. On the saved data page, you can choose which data you'd like to analyze. This will process and open a 3 screen dashboard showing general information about the data, sentiment change over the time, and a more focused navigation that allows you to examine each individual tweet. 
 
 This application relies on a modified version of the Twint python library to scrape tweets. The UI is created using the Kivy python library. The analysis uses various methods such as NLP.
+
+
+HOW TO USE:
+
+To use the application, download the folder listed in this repository. Then follow the instructions on the readme.txt.
